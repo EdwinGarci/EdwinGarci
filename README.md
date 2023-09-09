@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Chira Piura Special Project<br>👯 I’m looking to collaborate on different Frontend and Backend projects regardless of language<br>🤝 I’m looking for help with obtaining certificates in the cloud<br>🌱 I’m currently learning Docker and the NestJs and Angular frameworks<br>💬 Ask me about my projects or learned technologies<br>⚡ A curious fact about me is that my first option was to study computer engineering, but in the end I ended up studying systems engineering.
+🔭 I’m currently working on Ecosac<br>👯 I’m looking to collaborate on different Frontend and Backend projects regardless of language<br>🤝 I’m looking for help with obtaining certificates in the cloud<br>🌱 I’m currently learning Docker and the NestJs and Angular frameworks<br>💬 Ask me about my projects or learned technologies<br>⚡ A curious fact about me is that my first option was to study computer engineering, but in the end I ended up studying systems engineering.
 
 
 # 💻 Tech Stack:
