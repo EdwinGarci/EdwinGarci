@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edwin Fidel García Távara</h1>
 <h3 align="center">A passionate FullStack developer with a focus on Backend from Perú</h3>
 
-- 🔭 I’m currently working on **Yaroslab**
+- 🔭 I’m currently working on **Invian**
 
 - 🌱 I’m currently learning **Docker and the NestJs and Angular frameworks**
 
